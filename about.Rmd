@@ -2,4 +2,14 @@
 title: "About Me"
 ---
 
-text
+- __Name:__ Maureen A. Carey
+- __Ocupation:__ "Graduate student researcher"
+- __Research Interests:__ ""
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+[1]: http://www.twitter.com/MaureenACarey
+[2]: http://www.github.com/maureencarey
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->

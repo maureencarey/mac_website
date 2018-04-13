@@ -1,0 +1,23 @@
+---
+title: "Publications"
+---
+
+**Carey MA**, Papin JA (2018) **Ten simple rules for biologists learning to program.** *PLOS Computational Biology* 14(1): e1005871. https://doi.org/10.1371/journal.pcbi.1005871
+**Accessed over 36,000 times**
+
+Medlock GL, **Carey MA**, McDuffie DG, Mundy MB, Giallourou N, Swann JR, Kolling G, Papin JA (2018) **Metabolic mechanisms of interaction within a defined gut microbiota.** *bioRxiv*, 250860. https://doi.org/10.1101/250860
+Submitted and under review at Cell Systems.
+
+**Carey MA**, Covelli V, Brown A, Medlock GL, Haaren M, Cooper JG, Papin JA, Guler JL (2017) **Influential parameters for the analysis of intracellular parasite metabolomics.** *bioRxiv*, 190421. https://doi.org/10.1101/190421
+Accepted at mSphere.
+
+**Carey MA**, Papin JA, Guler JL (2017) **Novel *Plasmodium falciparum* metabolic network reconstruction identifies shifts associated with clinical antimalarial resistance**. *BMC genomics* 18 (1), 543. https://doi.org/10.1186/s12864-017-3905-1
+
+**Carey MA**, Ho ES (2017). **A transcriptome study of *Borrelia burgdorferi* infection in murine heart and brain tissues**. *Journal of Young Investigators* 33 (1). https://doi:10.22186/jyi.33.1.28-41
+
+Higgins MJ, Serrano A, Boateng KY, Parsons VA, Phuong T, Seifert A, Ricca JM, Tucker KC, Eidelman AS, **Carey MA**, Kurt RA (2016). **A Multifaceted role for Myd88-Dependent signaling in progression of murine mammary carcinoma**. *Breast cancer: basic and clinical research* 10, BCBCR. S40075. 
+
+Burgess SL, Buonomo E, **Carey M**, Cowardin C, Naylor C, Noor Z, Wills-Karp M, Petri WA (2014). **Bone marrow dendritic cells from mice with an altered microbiota provide interleukin 17A-dependent protection against *Entamoeba histolytica* colitis**. *MBio* 5 (6), e01817. https://doi: 10.1128/mBio.01817-14
+	
+
+{r} [Full list of publications on Google Scholar] (https://scholar.google.com/citations?user=QDldimoAAAAJ&hl=en&authuser=1)
