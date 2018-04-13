@@ -20,4 +20,4 @@ Higgins MJ, Serrano A, Boateng KY, Parsons VA, Phuong T, Seifert A, Ricca JM, Tu
 Burgess SL, Buonomo E, **Carey M**, Cowardin C, Naylor C, Noor Z, Wills-Karp M, Petri WA (2014). **Bone marrow dendritic cells from mice with an altered microbiota provide interleukin 17A-dependent protection against *Entamoeba histolytica* colitis**. *MBio* 5 (6), e01817. https://doi: 10.1128/mBio.01817-14
 	
 
-{r} [Full list of publications on Google Scholar] (https://scholar.google.com/citations?user=QDldimoAAAAJ&hl=en&authuser=1)
+[Full list of publications on Google Scholar] (https://scholar.google.com/citations?user=QDldimoAAAAJ&hl=en&authuser=1)
