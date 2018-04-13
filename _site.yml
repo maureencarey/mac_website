@@ -9,4 +9,6 @@ navbar:
       href: about.html
     - text: "Publications"
       href: pubs.html
+output:
+    theme: tactile
 
