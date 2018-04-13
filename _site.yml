@@ -2,7 +2,7 @@ name: "maureencarey-website"
 output_dir: "."
 navbar:
   title: "Maureen Carey's Website"
-  top:
+  left:
     - text: "Home"
       href: index.html
     - text: "About Me"
