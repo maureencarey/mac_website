@@ -2,15 +2,11 @@ name: "maureencarey-website"
 output_dir: "."
 navbar:
   title: "Maureen Carey's Website"
-  left:
+  top:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
     - text: "Publications"
       href: pubs.html
-    
-output:
-  html_document:
-    theme: cosmo
-    highlight: textmate
+
